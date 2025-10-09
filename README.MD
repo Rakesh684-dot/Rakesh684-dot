@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently looking gor **internships and job**
+- 🌱 I’m currently doing **internships and job**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -73,3 +73,4 @@
     <img src="https://komarev.com/ghpvc/?username=Rakesh684-dot">
 </a>
 <a href="https://github.com/Rakesh684-dot=followers"><img src="https://img.shields.io/github/followers/Rakesh684-dot?label=Followers&style=social" alt="GitHub Badge"></a>
+
