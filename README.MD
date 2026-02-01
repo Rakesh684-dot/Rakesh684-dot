@@ -1,19 +1,19 @@
-# Hello World, I'm Rakesh Kumar Nayak 👋
+# <p align="center">✨ Hello World, I'm Rakesh Kumar Nayak ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=AI%20/%20ML%20Researcher&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:FFD700,100:FF8C00&height=280&section=header&text=AI%20/%20ML%20Researcher&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20@%20AgriTek%20India&descSize=25&descAlignY=55" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a driven **M.Tech student specializing in AI/ML** with a focus on building scalable, high-impact solutions. Pursued B.Tech in CSE from THE NORTHCAP UNIVERSITY , GURGAON. Currently balancing academic research in **NLP** with my role as a startup founder.
+I am a passionate **Data Science and AI/ML Researcher** dedicated to building intelligent solutions for real-world impact. Currently, I am bridging the gap between cutting-edge NLP research and entrepreneurial innovation.
 
-- 🎓 **GATE Qualified** in Computer Science & Engineering.
-- 🚀 **Co-founder** of **AgriTek India**, revolutionizing agriculture through AI.
-- 👨‍🎓 Pursuing **M.Tech in CSE (AI/ML)** at NorthCap University.
-- 🏆 **Cultural Head** at NSS NCU & **Student Alexa Volunteer** at IEEE.
-
+* 🏆 **GATE Qualified** in Computer Science & Engineering.
+* 🚀 **Co-founder** of **AgriTek India**, revolutionizing agriculture with AI.
+* 🎓 **M.Tech in CSE (AI/ML)** Student @ The NorthCap University.
+* 🎓 **B.Tech in CSE** Alumnus @ The NorthCap University, Gurgaon.
+* 🎭 **Cultural Head** @ NSS NCU & **Student Alexa Volunteer** @ IEEE NCU.
 
 ---
 
@@ -21,47 +21,52 @@ I am a driven **M.Tech student specializing in AI/ML** with a focus on building 
 
 #### 🌈 [Gender Inclusive Language Generation (LT-EDI @ ACL 2026)](https://github.com/Rakesh684-dot/LT-EDI-2026-Gender-Inclusive-Language)
 *Advancing bias-free text transformation.*
-- **Subtasks:** Inclusive rewriting (EN, DE, ES, TA, KN) and Counterfactuals.
-- **Stack:** mT5, Flan-T5, RAG, and GIFI evaluation frameworks.
+* **Core Work:** Rewriting biased sentences into inclusive versions across **5 languages** (EN, DE, ES, TA, KN).
+* **Stack:** mT5, Flan-T5, RAG, and GIFI evaluation frameworks.
 
 <br>
 
 #### 🏥 [NLP-AI4Health: Medical Dialogue Summarization](https://aclanthology.org/2025.nlpai4health-main.8/)
-- Developed multilingual QA systems and RAG pipelines for clinical datasets.
-- Published research on medical dialogue simplification in **ACL Anthology**.
+*Published Research in ACL Anthology 2025*
+* Developed a **RAG-based QA system** for clinical medical dialogue.
+* Specialized in multilingual summarization to improve clinical documentation.
 
 <br>
 
 #### ⌚ AlertMate: IoT Fall Detection System
-- Integrated hardware (Arduino Nano BLE) and cloud (Firebase) for real-time elderly safety.
-- Features a **3-Layer Architecture** and adaptive thresholds for impact detection.
+*Smart wearable for elderly safety*
+* Designed a **3-Layer Architecture** (Hardware, Mobile, Cloud) for real-time monitoring.
+* Uses **Arduino Nano BLE 33** and **Firebase** for instant push-notification alerts.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Toolbox
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 My Coding Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh684-dot&show_icons=true&theme=radical&count_private=true" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh684-dot&theme=radical" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh684-dot&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh684-dot&theme=radical" height="180" />
 </p>
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/rakesh-kumar-nayak" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/RakeshK15320044" target="_blank">
+  <img src="https://img.shields.io/badge/-X%20/%20Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/rakesh_nayak_33" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -71,6 +76,7 @@ I am a driven **M.Tech student specializing in AI/ML** with a focus on building 
 </a>
 </p>
 
+<br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
