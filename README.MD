@@ -1,13 +1,23 @@
+# <p align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/hand-wave.gif" width="45px"> I'm Rakesh Kumar Nayak</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Rakesh%20Kumar%20Nayak&fontSize=70&animation=fadeIn" width="100%"/>
+  <img src="https://github.com/Jaysprow/Jaysprow/blob/main/assets/developer.gif?raw=true" width="400" alt="Researcher Animation" />
 </p>
 
-## 👋 About Me
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7E018&center=true&vCenter=true&width=600&lines=M.Tech+AI%2FML+Researcher;Co-founder+of+AgriTek+India;GATE+Qualified+Engineer;Building+Next-Gen+NLP+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<br>
+
+## 🚀 Professional Profile
 I am a **Data Science & AI/ML Researcher** currently pursuing my **M.Tech at IIIT Surat**. I specialize in building ethical, scalable, and impact-driven AI systems.
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=M.Tech+@+IIIT+Surat;AI/ML+Researcher;AgriTek+Co-Founder;Problem+Solver" alt="Typing SVG" />
-</p>
+* 🎓 **GATE Qualified** in Computer Science & Engineering.
+* 🚀 **Co-founder of AgriTek India**, revolutionizing agriculture with AI.
+* 🏆 **Cultural Head** at NSS NCU & **Student Alexa Volunteer** at IEEE.
 
 ---
 
@@ -86,4 +96,5 @@ I am a **Data Science & AI/ML Researcher** currently pursuing my **M.Tech at III
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
