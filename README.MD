@@ -56,7 +56,7 @@ B.Tech in Computer Science Engineering
 
 <br>
 
-### 🏥 [NLP-AI4Health: Medical Dialogue Summarization](https://github.com/addygeek/AlertMate)
+### 🏥 [NLP-AI4Health: Medical Dialogue Summarization](https://github.com/Rakesh684-dot/Multilingual-Clinical-Summarization)
 (https://aclanthology.org/2025.nlpai4health-main.8/)
 *Published Research in ACL Anthology 2025*
 * **Core Work**: Built a **RAG-based question-answering system** and multilingual medical dialogue summarization models using **mT5**.
@@ -108,6 +108,7 @@ B.Tech in Computer Science Engineering
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
 
 
