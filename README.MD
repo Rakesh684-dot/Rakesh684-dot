@@ -16,7 +16,6 @@
 
 Made with 💜 by [Rakesh](https://www.linkedin.com/in/rakesh-kumar-nayak-7427661aa/)
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 
 <div align="center">
@@ -27,7 +26,6 @@ Made with 💜 by [Rakesh](https://www.linkedin.com/in/rakesh-kumar-nayak-742766
  
 
 
-# <p align="center">Hi there! I'm Rakesh Kumar Nayak</p>
 
 ### <p align="center">🚀 Co-founder of **AgriTek India** | AI/ML Researcher</p>
 
@@ -39,6 +37,12 @@ I am a **Data Science & AI/ML Researcher** currently pursuing my **M.Tech at III
 * 🎓 **GATE Qualified** in Computer Science & Engineering.
 * 🚀 **Co-founder of AgriTek India**, revolutionizing agriculture with AI.
 * 🏆 **Cultural Head** at NSS NCU & **Student Alexa Volunteer** at IEEE.
+
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+
+
 ---
 ## 🎓 Education
 
@@ -135,6 +139,7 @@ B.Tech in Computer Science Engineering
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
 
 
