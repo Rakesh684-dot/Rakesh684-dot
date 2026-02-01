@@ -22,13 +22,14 @@ I am a **Data Science & AI/ML Researcher** currently pursuing my **M.Tech at III
 ---
 
 ## 🎓 Education
-<table border="0">
+
+<table>
   <tr>
-    <td><img src="./assets/iiit_surat.png" width="40" height="40" alt="IIIT Surat Logo"></td>
+    <td align="center"><img src="assets/iiit_surat.png" width="50" alt="IIIT Surat Logo"></td>
     <td><strong>Indian Institute of Information Technology, Surat</strong><br/>M.Tech in Computer Science (AI/ML)</td>
   </tr>
   <tr>
-    <td><img src="./assets/ncu_logo.png" width="40" height="40" alt="NCU Logo"></td>
+    <td align="center"><img src="assets/ncu_logo.png" width="50" alt="NCU Logo"></td>
     <td><strong>The NorthCap University (NCU)</strong><br/>B.Tech in Computer Science Engineering</td>
   </tr>
 </table>
@@ -96,6 +97,7 @@ I am a **Data Science & AI/ML Researcher** currently pursuing my **M.Tech at III
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
 
 
