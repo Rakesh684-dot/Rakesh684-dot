@@ -1,13 +1,17 @@
 # <p align="center">✨ Hello World, I'm Rakesh Kumar Nayak ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=AI%20/%20ML%20Researcher&fontSize=75&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=AI%20/%20ML%20Researcher&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=M.Tech+AI%2FML+Researcher;Co-founder+@+AgriTek+India;GATE+Qualified+Engineer;NLP+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7E018&center=true&vCenter=true&width=600&lines=M.Tech+AI%2FML+Researcher;Co-founder+of+AgriTek+India;GATE+Qualified+Engineer;Building+Next-Gen+NLP+Solutions" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh684-dot&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -86,4 +90,5 @@ I am a passionate **Data Science and AI/ML Researcher** dedicated to building in
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
 
