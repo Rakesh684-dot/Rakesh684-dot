@@ -23,24 +23,25 @@ I am a **Data Science & AI/ML Researcher** currently pursuing my **M.Tech at III
 ## 🎓 Education
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/USER_NAME/REPO_NAME/main/assets/iiit_surat.png" width="50" alt="IIIT Surat Logo">
-    </td>
-    <td>
-      <strong>Indian Institute of Information Technology, Surat</strong><br/>
-      M.Tech in Computer Science (AI/ML)
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/USER_NAME/REPO_NAME/main/assets/ncu_logo.png" width="50" alt="NCU Logo">
-    </td>
-    <td>
-      <strong>The NorthCap University (NCU)</strong><br/>
-      B.Tech in Computer Science Engineering
-    </td>
-  </tr>
+<tr>
+<td width="90">
+<img src="./IIITSURAT.png" width="70"/>
+</td>
+<td>
+<b>Indian Institute of Information Technology, Surat</b><br>
+M.Tech in Computer Science (AI/ML)
+</td>
+</tr>
+
+<tr>
+<td width="90">
+<img src="./ncu.jpeg" width="70"/>
+</td>
+<td>
+<b>The NorthCap University (NCU)</b><br>
+B.Tech in Computer Science Engineering
+</td>
+</tr>
 </table>
 
 
@@ -107,6 +108,7 @@ I am a **Data Science & AI/ML Researcher** currently pursuing my **M.Tech at III
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
 
 
