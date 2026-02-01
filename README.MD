@@ -30,10 +30,11 @@ Made with 💜 by [Rakesh](https://https://www.linkedin.com/in/rakesh-kumar-naya
 ## 🚀 Professional Profile
 I am a **Data Science & AI/ML Researcher** currently pursuing my **M.Tech at IIIT Surat**. I specialize in building ethical, scalable, and impact-driven AI systems.
 
+<div align="left">
 * 🎓 **GATE Qualified** in Computer Science & Engineering.
 * 🚀 **Co-founder of AgriTek India**, revolutionizing agriculture with AI.
 * 🏆 **Cultural Head** at NSS NCU & **Student Alexa Volunteer** at IEEE.
-
+</div>
 ---
 ## 🎓 Education
 
@@ -123,6 +124,7 @@ B.Tech in Computer Science Engineering
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
 
 
