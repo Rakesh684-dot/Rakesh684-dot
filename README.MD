@@ -84,11 +84,17 @@ B.Tech in Computer Science Engineering
 
 <br>
 
-### 🚨 [AlertMate: IoT Fall Detection System](https://drive.google.com/file/d/1hOP6DqgtKytPrUdLKk6mpOd9llMxbdq4/view?usp=drivesdk)
-[cite_start]*Smart wearable safety and notification system for elderly care.* [cite: 10]
-* [cite_start]**3-Layer Architecture**: Integrated **Hardware** (Arduino Nano BLE 33), **Mobile** (Android), and **Cloud** (Firebase) layers[cite: 25].
-* [cite_start]**Functionality**: Utilizes an **IMU sensor** to detect falls via free-fall and impact thresholds, instantly alerting caretakers via **Firebase Cloud Messaging (FCM)**[cite: 11, 30, 65].
-* [cite_start]**Features**: Maintains fall history for medical analysis and provides real-time location tracking and manual SOS options[cite: 21, 22, 52].
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/alarm.png" alt="alarm"/>
+  <h3 align="center">AlertMate: IoT Fall Detection System(https://drive.google.com/file/d/1hOP6DqgtKytPrUdLKk6mpOd9llMxbdq4/view?usp=drivesdk)</h3>
+  <p align="center"><i>Smart wearable safety and notification system for elderly care.</i></p>
+</p>
+
+* **3-Layer Architecture:** Integrated **Hardware** (Arduino Nano BLE 33), **Mobile** (Android), and **Cloud** (Firebase) layers.
+* **Functionality:** Utilizes an **IMU sensor** to detect falls via free-fall and impact thresholds, instantly alerting caretakers via **Firebase Cloud Messaging (FCM)**.
+* **Features:** Maintains fall history for medical analysis and provides real-time location tracking and manual SOS options.
+
 
 <br>
 
@@ -128,6 +134,7 @@ B.Tech in Computer Science Engineering
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
 
 
