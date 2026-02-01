@@ -1,7 +1,13 @@
 # <p align="center">✨ Hello World, I'm Rakesh Kumar Nayak ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:FFD700,100:FF8C00&height=280&section=header&text=AI%20/%20ML%20Researcher&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20@%20AgriTek%20India&descSize=25&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=AI%20/%20ML%20Researcher&fontSize=75&animation=twinkling&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=M.Tech+AI%2FML+Researcher;Co-founder+@+AgriTek+India;GATE+Qualified+Engineer;NLP+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -80,3 +86,4 @@ I am a passionate **Data Science and AI/ML Researcher** dedicated to building in
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
