@@ -63,7 +63,7 @@
 
 <a href = "https://www.linkedin.com/in/rakesh-kumar-nayak-7427661aa"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/RakeshK15320044?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rakesh_143bb?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/rakesh_nayak_33?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
@@ -73,4 +73,5 @@
     <img src="https://komarev.com/ghpvc/?username=Rakesh684-dot">
 </a>
 <a href="https://github.com/Rakesh684-dot=followers"><img src="https://img.shields.io/github/followers/Rakesh684-dot?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
