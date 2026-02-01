@@ -64,7 +64,8 @@ B.Tech in Computer Science Engineering
 </tr>
 </table>
 
-
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7f4fb7d4-5787-4f72-9a4d-9fb16d3cab39" width="200">
+   
 ---
 ## 🧪 Featured Research & Projects
 
@@ -134,6 +135,7 @@ B.Tech in Computer Science Engineering
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
 
 
