@@ -10,6 +10,8 @@
   </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rakesh;Co-founder+of+AgriTek+India;AI%2FML+Researcher;M.Tech+at+IIIT+Surat)](https://git.io/typing-svg)
+
 <br>
 
 ## 🚀 Professional Profile
@@ -108,6 +110,7 @@ B.Tech in Computer Science Engineering
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
 
 
 
